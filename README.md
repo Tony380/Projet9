@@ -1,5 +1,5 @@
 # Projet 9
-Documentez votre système de gestion de pizzeria
+Documentez votre système de gestion de pizzeria.
 
 Ce projet fait suite aux projets 4 et 6 d'Openclassrooms.
 
